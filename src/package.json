@@ -1,0 +1,22 @@
+{
+  "name": "graceful-server-shutdown-heartbeat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartekzawadka/graceful-server-shutdown-heartbeat.git"
+  },
+  "author": "Bartosz Zawadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartekzawadka/graceful-server-shutdown-heartbeat/issues"
+  },
+  "homepage": "https://github.com/bartekzawadka/graceful-server-shutdown-heartbeat#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
